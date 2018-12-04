@@ -11,4 +11,7 @@ public class demoContorller {
     public String input(){
         return "hello this is client1";
     }
+    public String input3(){
+        return "hello this is client1";
+    }
 }
