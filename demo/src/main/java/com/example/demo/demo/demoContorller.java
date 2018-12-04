@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class demoContorller {
     @RequestMapping("input")
-    //
+    //测试提交
     public String input(){
         return "hello this is client1";
     }
