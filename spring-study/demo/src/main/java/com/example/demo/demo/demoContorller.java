@@ -10,4 +10,8 @@ public class demoContorller {
     public String input(){
         return "hello this is client1";
     }
+    @RequestMapping("input")
+    public String input2(){
+        return "hello this is client1";
+    }
 }
